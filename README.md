@@ -2,7 +2,7 @@
 
   <a href="url"><img src="https://avatars.githubusercontent.com/u/64496956?v=4" height="auto" width="200" style="border-radius:50%"></a>
 
-  <b><i>Haloooooo... Tanaanan destuu...</i></b>
+  <b><i> こんにちは Tanaanan です。 </i></b>
   
   <img src="https://komarev.com/ghpvc/?username=Tanaanan&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
   

@@ -39,10 +39,9 @@
   <i><b>Languages Currently Learning:</b></i>
   <br><br>
   <img align="center" src="contents/languages/python.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/nodejs.svg" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/html.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/css.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/js.png" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/C.png" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/C#.jpg" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/C++.png" width="50px" />&nbsp;
 </p>
 
 <hr></hr>
@@ -51,12 +50,10 @@
   <i><b>Main Libs:</b></i>
   <br><br>
   <img align="center" src="contents/tools/pandas.png" width="100px" />&nbsp;
-  <img align="center" src="contents/tools/tensorflow.png" width="40px" />&nbsp;
   <img align="center" src="contents/tools/requests.png" width="45px" />&nbsp;
   <img align="center" src="contents/tools/bf4.png" width="100px" />&nbsp;
-  <img align="center" src="contents/tools/passport.svg" width="30px" />&nbsp;
-  <img align="center" src="contents/tools/express.png" width="120px" />&nbsp;
-  <img align="center" src="contents/tools/discord.png" width="50px" />&nbsp;</p>
+  <img align="center" src="contents/tools/fast.ai.png" width="30px" />&nbsp;
+  <img align="center" src="contents/tools/numpy.png" width="120px" />&nbsp;
 <hr>
 
 <h3 align="center">Education</h3>

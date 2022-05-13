@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <a href="url"><img src="https://cdn.discordapp.com/attachments/966606618835943494/974626121230483486/645863D5-3B9B-4FC1-B9D1-C55EE48B659E.jpg?fbclid=IwAR3T4x4P0HP_MV8pNkBc6S-aUUVOBkN5Xmo0gAFuPN7zBYFh0ov5-Wegt1A" height="auto" width="auto" style="border-radius:50%"></a>
+  <a href="url"><img src="https://cdn.discordapp.com/attachments/966606618835943494/974626121230483486/645863D5-3B9B-4FC1-B9D1-C55EE48B659E.jpg?fbclid=IwAR3T4x4P0HP_MV8pNkBc6S-aUUVOBkN5Xmo0gAFuPN7zBYFh0ov5-Wegt1A" height="1200" width="1200" style="border-radius:50%"></a>
 
   <b><i>はじめまして "Tanaanan " です。 OwO</i></br>
   <b><i>PS. you can call me "M" as well. UwU </i></b>
@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     An indie <b>Highschooler</b> in <b>Sci-Math</b> class <br>
-    <b>Who like spending freetime self study programming more than learning in school,</b>
+    <b>Who like spending freetime self study programming more than learning in school,</b><br>
     loved to develop something useful / fun, 
     <br>I devoted my life and time to the joy of learning</br>
     <br><b>Work hard, Play hard!</b></br>
@@ -76,7 +76,7 @@
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://web.facebook.com/profile.php?id=100004500556669)
   [<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://github.com/Tanaanan)
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://github.com/Tanaanan)
-  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://github.com/Tanaanan) 
+  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://sites.google.com/view/holyfakmyname/home) 
 
 </div>
 

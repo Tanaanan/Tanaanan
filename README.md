@@ -1,9 +1,9 @@
 <h1 align="center">
 
-  <a href="url"><img src="https://avatars.githubusercontent.com/u/64496956?v=4" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="url"><img src="https://rukminim1.flixcart.com/image/416/416/jy65j0w0/poster/f/d/5/medium-anime-miss-kobayashi-s-dragon-maid-kobayashi-original-imaf9kbhuvrdhtfm.jpeg?q=70" height="auto" width="200" style="border-radius:50%"></a>
 
-  <b><i>はじめまし "Tanaanan" です。OwO</i></br>
-  <b><i>Hiiii... my name is "Tanaanan" you can call me "M" UwU </i></b>
+  <b><i>はじめまし "Tanaanan" です。 OwO</i></br>
+  <b><i>Hiiii... my name is "Tanaanan" you can call me "M" as well. UwU </i></b>
   
 
   <img src="https://komarev.com/ghpvc/?username=Tanaanan&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
@@ -17,18 +17,18 @@
     <b>Who Spends 4hrs a day self study programming,</b>
     loved to develop something useful / fun, 
     <br>I devoted my life and time to the joy of learning</br>
-    <br><b>Hate School, Love Study!</b></br>
+    <br><b>Work hard, Play hard!</b></br>
   </em>
 </p>
 
 <p align="center">___________</p>
 <div align="center">
   
-🖥️ Learning DS, WEBDEV
+🖥️ Learning Algorithm and ML
   
-🔭 currently working on Main Project & side project
+🔭 currently working on main project & side project
   
-🌱 Fell behind in maths but I'm trying to catch up
+🌱 Fell behind in maths but I'm trying to catch up 
   
 </div>
 
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Senior high school</td>
-    <td>Saengthong Vittaya School  <b>(Computer-Engineer)</b></td>
+    <td>Saengthong Vittaya School  <b>(PCE - Pre Computer Engineer)</b></td>
   </tr>
 <table>
 

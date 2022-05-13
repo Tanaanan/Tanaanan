@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <a href="url"><img src="https://cdn.discordapp.com/attachments/966606618835943494/974626121230483486/645863D5-3B9B-4FC1-B9D1-C55EE48B659E.jpg?fbclid=IwAR3T4x4P0HP_MV8pNkBc6S-aUUVOBkN5Xmo0gAFuPN7zBYFh0ov5-Wegt1A" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="url"><img src="https://cdn.discordapp.com/attachments/966606618835943494/974626121230483486/645863D5-3B9B-4FC1-B9D1-C55EE48B659E.jpg?fbclid=IwAR3T4x4P0HP_MV8pNkBc6S-aUUVOBkN5Xmo0gAFuPN7zBYFh0ov5-Wegt1A" height="auto" width="auto" style="border-radius:50%"></a>
 
   <b><i>はじめまして "Tanaanan " です。 OwO</i></br>
   <b><i>PS. you can call me "M" as well. UwU </i></b>

@@ -39,8 +39,8 @@
   <i><b>Languages Currently Learning:</b></i>
   <br><br>
   <img align="center" src="contents/languages/python.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/C.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/C#.jpg" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/C.png" width="60px" />&nbsp;
+  <img align="center" src="contents/languages/C#.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/C++.png" width="50px" />&nbsp;
 </p>
 
@@ -49,10 +49,10 @@
 <p align="center">
   <i><b>Main Libs:</b></i>
   <br><br>
-  <img align="center" src="contents/tools/pandas.png" width="100px" />&nbsp;
+  <img align="center" src="contents/tools/pandas.png" width="120px" />&nbsp;
   <img align="center" src="contents/tools/requests.png" width="45px" />&nbsp;
   <img align="center" src="contents/tools/bf4.png" width="100px" />&nbsp;
-  <img align="center" src="contents/tools/fast.ai.png" width="30px" />&nbsp;
+  <img align="center" src="contents/tools/fastai.png" width="120px" />&nbsp;
   <img align="center" src="contents/tools/numpy.png" width="120px" />&nbsp;
 <hr>
 

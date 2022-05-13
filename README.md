@@ -1,9 +1,9 @@
 <h1 align="center">
 
-  <a href="url"><img src="https://rukminim1.flixcart.com/image/416/416/jy65j0w0/poster/f/d/5/medium-anime-miss-kobayashi-s-dragon-maid-kobayashi-original-imaf9kbhuvrdhtfm.jpeg?q=70" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="url"><img src="https://cdn.discordapp.com/attachments/966606618835943494/974626121230483486/645863D5-3B9B-4FC1-B9D1-C55EE48B659E.jpg?fbclid=IwAR3T4x4P0HP_MV8pNkBc6S-aUUVOBkN5Xmo0gAFuPN7zBYFh0ov5-Wegt1A" height="auto" width="200" style="border-radius:50%"></a>
 
-  <b><i>はじめまし "Tanaanan" です。 OwO</i></br>
-  <b><i>Hiiii... my name is "Tanaanan" you can call me "M" as well. UwU </i></b>
+  <b><i>はじめまして "Tanaanan " です。 OwO</i></br>
+  <b><i>PS. you can call me "M" as well. UwU </i></b>
   
 
   <img src="https://komarev.com/ghpvc/?username=Tanaanan&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
@@ -13,8 +13,8 @@
 
 <p align="center">
   <em>
-    An indie <b>Highschooler</b> in <b>Japanease-English</b> class <br>
-    <b>Who Spends 4hrs a day self study programming,</b>
+    An indie <b>Highschooler</b> in <b>Sci-Math</b> class <br>
+    <b>Who like spending freetime self study programming more than learning in school,</b>
     loved to develop something useful / fun, 
     <br>I devoted my life and time to the joy of learning</br>
     <br><b>Work hard, Play hard!</b></br>

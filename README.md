@@ -2,7 +2,7 @@
 
   <a href="url"><img src="https://avatars.githubusercontent.com/u/64496956?v=4" height="auto" width="200" style="border-radius:50%"></a>
 
-  <b><i>はじめまし "Tanaanan" です。OwO</i></b>
+  <b><i>はじめまし "Tanaanan" です。OwO</i></br>
   <b><i>Hiiii... my name is "Tanaanan" you can call me "M" UwU </i></b>
   
 

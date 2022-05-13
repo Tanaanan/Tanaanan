@@ -40,7 +40,7 @@
   <br><br>
   <img align="center" src="contents/languages/python.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/C.png" width="60px" />&nbsp;
-  <img align="center" src="contents/languages/C#.png" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/Csharp.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/C++.png" width="50px" />&nbsp;
 </p>
 

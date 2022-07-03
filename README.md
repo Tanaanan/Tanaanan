@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <a href="url"><img src="https://cdn.discordapp.com/attachments/853281902895431710/993154816169742409/IMG_5111.jpg" height="auto" width="auto" style="border-radius:50%"></a>
+  <a href="url"><img src="https://cdn.discordapp.com/attachments/853281902895431710/993154816169742409/IMG_5111.jpg" height="600" width="600" style="border-radius:50%"></a>
 
   <b><i>はじめまして "Tanaanan " です。 OwO</i></br>
   <b><i>PS. you can call me "M" as well. UwU </i></b>
